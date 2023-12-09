@@ -1,0 +1,68 @@
+{
+    "portfolio": [
+      {
+        "Id": 1,
+        "Image": "pr-1.jpg",
+        "Title": "Panacea",
+        "ShortDescription": "Сайт для сервера по Day.Z",
+        "Description": "Нормальное описание",
+        "LinkToProject": "https://panaceadayz.us/"
+      },
+      {
+        "Id": 2,
+        "Image": "pr-2.jpg",
+        "Title": "Viva Motors",
+        "ShortDescription": "Сайт для автосервиса в Москве",
+        "Description": "Нормальное описание",
+        "LinkToProject": "https://viva-motors.ru/"
+      },
+      {
+        "Id": 3,
+        "Image": "pr-3.jpg",
+        "Title": "Redweeks",
+        "ShortDescription": "Сайт для интрнет-магазина",
+        "Description": "Нормальное описание",
+        "LinkToProject": "https://redweeks.ru/"
+      },
+      {
+        "Id": 4,
+        "Image": "pr-4.jpg",
+        "Title": "ProBali",
+        "ShortDescription": "Главная страница для блога по Бали",
+        "Description": "Нормальное описание",
+        "LinkToProject": "https://sedm1.github.io/bali/"
+      },
+      {
+        "Id": 5,
+        "Image": "pr-5.jpg",
+        "Title": "DoctorDent",
+        "ShortDescription": "Сайт для медицинской компании",
+        "Description": "Нормальное описание",
+        "LinkToProject": "https://doctor-dent.kz/"
+      },
+      {
+        "Id": 6,
+        "Image": "pr-6.jpg",
+        "Title": "Yo",
+        "ShortDescription": "Сайт для сайт по аренде автомобилей",
+        "Description": "Нормальное описание",
+        "LinkToProject": "https://sedm1.github.io/Yo/"
+      },
+      {
+        "Id": 7,
+        "Image": "pr-7.jpg",
+        "Title": "Promkonsalt",
+        "ShortDescription": "Сайт для сопроваждающей компании",
+        "Description": "Нормальное описание",
+        "LinkToProject": ""
+      },
+      {
+        "Id": 8,
+        "Image": "pr-8.jpg",
+        "Title": "SMS Steel",
+        "ShortDescription": "Сайт для металургической компании",
+        "Description": "Нормальное описание",
+        "LinkToProject": "https://sms-steel.ru/"
+      }
+    ]
+  }
